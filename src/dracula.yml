@@ -41,7 +41,7 @@ dracula:
     - &TEMP_PROPERTY_QUOTES '#8BE9FE'
   other:
     - &LineHighlight '#44475A75'
-    - &NonText       '#FFFFFF1A'
+    - &NonText       '#717171' #8D8D8D
     - &WHITE         '#FFFFFF'
     - &TAB_DROP_BG   '#44475A70'
     # UI Variants
