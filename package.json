@@ -1,9 +1,9 @@
 {
 	"name": "theme-dracula",
 	"version": "2.24.2",
-	"displayName": "Dracula Official",
+	"displayName": "Customized version of Dracula Official",
 	"homepage": "https://draculatheme.com/",
-	"description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
+	"description": "A customized version of the Official Dracula Theme. A dark theme for many editors, shells, and more.",
 	"publisher": "dracula-theme",
 	"license": "MIT",
 	"scripts": {
@@ -66,7 +66,7 @@
 		"js-yaml": "^4.1.0",
 		"prettier": "^2.6.0",
 		"tinycolor2": "^1.4.2",
-		"vsce": "^2.7.0"
+		"vsce": "^2.12.0"
 	},
 	"__metadata": {
 		"id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
